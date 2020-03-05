@@ -1,4 +1,4 @@
-# Dodge Game in Java
+# Dodging Game in Java
 * This is one of my first Java games.
 * I was trying to understand what jFrame is back then.
 * You can also check this youtube link to see more information about game and build it yourself
